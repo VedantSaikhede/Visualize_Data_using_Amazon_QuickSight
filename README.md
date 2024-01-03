@@ -1,5 +1,7 @@
 
-# Visualize Data using Amazon QuickSight
+# 📈 Visualize Data using Amazon QuickSight
+
+<img src="https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/assets/112426891/ea97f087-1874-4b1b-b023-529f3f85e8b8" width="250" height="160" align="right" >
 
 - Created data visualizations using Amazon S3 and Amazon QuickSight.
 - Working with a large dataset of best-selling Amazon products.
