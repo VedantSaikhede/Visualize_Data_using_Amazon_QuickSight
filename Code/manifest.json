@@ -1,3 +1,4 @@
+```bash
 {
    "fileLocations": [
        {
@@ -13,3 +14,4 @@
        "containsHeader": "true"
    }
 }
+```
