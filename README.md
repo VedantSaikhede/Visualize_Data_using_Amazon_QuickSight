@@ -4,6 +4,9 @@
 - Created data visualizations using Amazon S3 and Amazon QuickSight.
 - Working with a large dataset of best-selling Amazon products.
 
+Dataset:
+[Amazon-Bestseller-Dataset.csv](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Amazon-Bestseller-Dataset.csv)
+
 ## Screenshots
 ![App Screenshot](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Screenshot%20(769).png)
 
