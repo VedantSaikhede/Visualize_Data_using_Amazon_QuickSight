@@ -1,4 +1,4 @@
-```
+```json
 {
    "fileLocations": [
        {
@@ -14,4 +14,7 @@
        "containsHeader": "true"
    }
 }
+```
+```json
+Here goes your json object definition
 ```
