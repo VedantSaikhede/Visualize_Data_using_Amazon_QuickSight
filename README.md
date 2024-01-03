@@ -6,6 +6,24 @@
 - Created data visualizations using Amazon S3 and Amazon QuickSight.
 - Working with a large dataset of best-selling Amazon products.
 
+manifest.json code:
+```json
+{
+   "fileLocations": [
+       {
+           "URIs": [
+               "s3://vedant-s3-bucket/Amazon-Bestseller-Dataset.csv"
+           ]
+       }
+   ],
+   "globalUploadSettings": {
+       "format": "CSV",
+       "delimiter": ",",
+       "textqualifier": "\"",
+       "containsHeader": "true"
+   }
+}
+```
 Dataset:
 [Amazon-Bestseller-Dataset.csv](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Amazon-Bestseller-Dataset.csv)
 
