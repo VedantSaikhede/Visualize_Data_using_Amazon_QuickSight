@@ -8,9 +8,9 @@ Dataset:
 [Amazon-Bestseller-Dataset.csv](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Amazon-Bestseller-Dataset.csv)
 
 ## Screenshots
-![App Screenshot](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Screenshot%20(769).png)
+![App Screenshot](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Screenshot/Screenshot%20(769).png)
 
-![App Screenshot](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Screenshot%20(770).png)
+![App Screenshot](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Screenshot/Screenshot%20(770).png)
 ![App Screenshot](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Screenshot%20(771).png)
 ![App Screenshot](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Screenshot%20(772).png)
 ![App Screenshot](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Screenshot%20(773).png)
