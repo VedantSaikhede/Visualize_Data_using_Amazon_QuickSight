@@ -29,11 +29,17 @@ Dataset:
 
 ## Screenshots
 ![App Screenshot](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Screenshot/Screenshot%20(769).png)
-
+<br><br><br>
 ![App Screenshot](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Screenshot/Screenshot%20(770).png)
+<br><br><br>
 ![App Screenshot](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Screenshot/Screenshot%20(771).png)
+<br><br><br>
 ![App Screenshot](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Screenshot/Screenshot%20(772).png)
+<br><br><br>
 ![App Screenshot](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Screenshot/Screenshot%20(773).png)
+<br><br><br>
 ![App Screenshot](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Screenshot/Screenshot%20(774).png)
+<br><br><br>
 ![App Screenshot](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Screenshot/Screenshot%20(775).png)
+<br><br><br>
 ![App Screenshot](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Screenshot/Screenshot%20(776).png)
